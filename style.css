@@ -30,7 +30,7 @@ li{
 }
 a{
     color: white;
-    font-size: larger;
+    font-size: 1em;
     text-decoration: none;
 }
 
@@ -65,7 +65,9 @@ footer{
     text-align: center;
 }
 h1{
+    font-size: 3rem;
     margin-top: 150px;
+    color: #e94c38;
 }
 section:nth-child(3), section:nth-child(4){
     margin-inline: 5vw;
@@ -81,8 +83,20 @@ section:nth-child(3) img, section:nth-child(4) img{
     height: 800px;
     width: 500px;
 }
+h2{
+    font-size: 2rem;
+    color: #f7a50f;
+
+}
 h3{
     margin-top: 10%;
+    font-size: 1.4rem;
+    color: #8bbf4b;
+    text-decoration: underline;
+}
+h4{
+    font-size: 1.2rem;
+    color: #5dc1ee;
 }
 
 @media screen and (max-width: 1200px) {
@@ -91,7 +105,7 @@ h3{
         align-items: center;
     }
     ul {
-        font-size: x-small;
+        font-size: small;
         gap: 5px;
         justify-content: space-between;
     }
