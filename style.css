@@ -6,6 +6,15 @@ header{
     background-color: lightgray;
 
 }
+header img{
+    width: 10vh;
+    height: 8vw;
+    
+}
+header div{
+    display: flex;
+    justify-content: center;
+}
 ul{
     display: flex;
     justify-content: space-evenly;
@@ -16,11 +25,17 @@ li{
 body{
     padding: 0;
     margin: 0;
+    font-family: 'Lato', sans-serif;
 }
 a{
     color: black;
     font-size: larger;
     text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    padding: 1vh;
 }
 footer{
     position: absolute;
@@ -28,4 +43,21 @@ footer{
     width: 100%;
     border-top: 3px solid black;
     background-color: lightgray;
+}
+
+#intro img{
+    width: 200px;
+    height: 300px;
+}
+
+#intro{
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:50%;
+    margin-left: 25%;
+}
+#intro p{
+    text-align: center;
 }
