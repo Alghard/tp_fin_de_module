@@ -24,8 +24,23 @@ li {
 }
 a {
   color: white;
-  font-size: larger;
+  font-size: 1em;
   text-decoration: none;
+}
+h1 {
+  font-size: 3rem;
+  margin-top: 200px;
+  color: #e94c38;
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+  color: #f7a50f;
+}
+h3 {
+  font-size: 1.4rem;
+  color: #8bbf4b;
+  text-decoration: underline;
 }
 
 a:hover {
