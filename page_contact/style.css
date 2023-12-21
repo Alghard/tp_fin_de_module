@@ -154,3 +154,7 @@ input,
 textarea {
   margin-block: 20px;
 }
+fieldset {
+  padding-left: 10vh;
+  padding-right: 10vh;
+}

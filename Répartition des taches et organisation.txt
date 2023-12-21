@@ -1,3 +1,3 @@
-Julien : Charte graphique / Wireframe / Page Html / Page Api / Harmonisation des pages / Correction des bugs
+Julien : Charte graphique / Wireframe / Page Html / Page Api / Harmonisation des pages de tout le monde / Correction des bugs / Lead
 Blaise : Cahier des charges / Page d'accueil / Page sur JS / 
 Lucile : Création de la structure de base des pages / Création du CSS de base des pages / Page CSS / Page Contact / Intégration video / Responsive
